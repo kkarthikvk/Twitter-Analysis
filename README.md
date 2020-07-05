@@ -9,7 +9,8 @@ Created my own vectorization algorithm in Gender_prediction_by_name.py file to c
 # Logic for gender prediction by name :-
 
 Most of the female names end with vowels (a,e,i,o,u) and almost every female name doesn't start after T . 
-There are more vowels character in female name . Used the formula (lenght of name)/(no of vowels)
+There are more vowels character in female name and vice versa .So used the formula (lenght of name)/(no of vowels)
+
 Used all the above logic to create my vectorization . 
 Used Gradient Boosting algorithm it predicted with an accuracy of 75% .
 
